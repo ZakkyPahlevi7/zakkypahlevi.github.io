@@ -1,0 +1,25 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #1C1B20;
+}
+#projects {
+  background-color: #1C1B20;
+}
+section {
+  padding-top: 5rem;
+}
+nav {
+  background-color: #1C1B20;
+}
+.nav-item  {
+  color: #fff;
+}
+#about {
+  background-color: #242528;
+}
+#contact {
+  background-color: #242528;
+}
+.card {
+  background-color: #1C1B20;
+}
